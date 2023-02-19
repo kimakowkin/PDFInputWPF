@@ -1,0 +1,15 @@
+C:\Projects\PDFReaderWPF\bin\Debug\PDFReaderWPF.exe.config
+C:\Projects\PDFReaderWPF\bin\Debug\PDFReaderWPF.exe
+C:\Projects\PDFReaderWPF\bin\Debug\PDFReaderWPF.pdb
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.csproj.AssemblyReference.cache
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.csproj.SuggestedBindingRedirects.cache
+C:\Projects\PDFReaderWPF\obj\Debug\MainWindow.g.cs
+C:\Projects\PDFReaderWPF\obj\Debug\App.g.cs
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF_MarkupCompile.cache
+C:\Projects\PDFReaderWPF\obj\Debug\MainWindow.baml
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.g.resources
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.Properties.Resources.resources
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.csproj.GenerateResource.cache
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.csproj.CoreCompileInputs.cache
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.exe
+C:\Projects\PDFReaderWPF\obj\Debug\PDFReaderWPF.pdb
